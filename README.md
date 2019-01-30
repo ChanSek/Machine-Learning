@@ -13,18 +13,18 @@ An algorithm that uses data to answer questions. In addition to it, we can also 
 
 **Book Definition** - A computer program said to learn from experience *E* with respect to some class of tasks *T* and performance measure *P*.
 
-Task - T                            (Recognizing Spam)
-Experience - E                      (Data - Emails and label them as Spam or not spam)
-Performance Measure - P             (How many emails are we labelling as Spam)
+Task - T                            (Recognizing Spam)  
+Experience - E                      (Data - Emails and label them as Spam or not spam)  
+Performance Measure - P             (How many emails are we labelling as Spam)  
 
 As E increases, the P increases
 
 #### Machine Learning Paradigm
 ##### Classical Programming
-Inputs - Data and Rules
+Inputs - Data and Rules  
 Outputs - Answers
 ##### Machine Learning
-Inputs - Date and Answers
+Inputs - Date and Answers  
 Outputs - Rules
 
 #### Types of Learning Approaches
@@ -39,19 +39,19 @@ Outputs - Rules
    - Part of Unsupervised Learning
    - Example - Give 100 images of cat, then draw a new cat
 4. Semi-supervised Learning
-... Small amount of labeled data along with unlabeled data
+   - Small amount of labeled data along with unlabeled data
 5. Self-supervised Learning
-... No labeled data
-... Labels are extracted from data using Heuristics
+   - No labeled data
+   - Labels are extracted from data using Heuristics
 6. Reinforcement Learning
-... Actions are chosen based on rewards.
-... Example - Chess, Games, etc
+   - Actions are chosen based on rewards.
+   - Example - Chess, Games, etc
 
 ### Seven Steps in Machine Learning
 1. Generating Data
 2. Preparing Data - Without bias
 3. Choosing a Model/Algorithm
-... Examples - Random Forest, ANNs, Hidden markov Models, etc.
+   - Examples - Random Forest, ANNs, Hidden markov Models, etc.
 4. Training
 5. Evaluation
 6. Hyperparameter Tuning
@@ -59,6 +59,6 @@ Outputs - Rules
 
 ### Supervised Learning
 1. Classification Problem
-... Cancer or Non-Cancer, Spam or Not Spam
+   - Cancer or Non-Cancer, Spam or Not Spam
 2. Regression Problem
-... Prediction of Stock Market based on history
+   - Prediction of Stock Market based on history
