@@ -62,3 +62,9 @@ Outputs - Rules
    - Cancer or Non-Cancer, Spam or Not Spam
 2. Regression Problem
    - Prediction of Stock Market based on history
+
+### Scalars, Vectors, Matrics, Tensors
+**Scalar** - 0<sup>th</sup> order tensor
+  - Example - n = 3
+**Vectors** - 1<sup>st</sup> order tensor
+  - Example - xU+20D7 = [1, 2, 3, 4]
