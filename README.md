@@ -6,7 +6,7 @@ This repository contains all the stuff what I am learning about ML and AI. To st
 Aritifcial Intelligence - Replicates results of Human Being
 Machine Learning - Performs better with experience
 
-`Aritifcial Intelligence > Machine Learning > Deep Learning`
+>Aritifcial Intelligence > Machine Learning > Deep Learning
 
 #### What is ML?
 An algorithm that uses data to answer questions. In addition to it, we can also define it as an algorithm which improves its performance as the data grows.
@@ -29,15 +29,15 @@ Outputs - Rules
 
 #### Types of Learning Approaches
 1. Supervised Learning
-... Date Labeled by Human
-... Examples - OCR, Speech Recognition, Image Labeling
+   - Date Labeled by Human
+   - Examples - OCR, Speech Recognition, Image Labeling
 2. Unsupervised Learning
-... Unlabeled Data
-... Examples - Grouping Customers, Detecting new Diseases
+   - Unlabeled Data
+   - Examples - Grouping Customers, Detecting new Diseases
 3. Generative Approaches
-... Creating new data from the given data
-... Part of Unsupervised Learning
-... Example - Give 100 images of cat, then draw a new cat
+   - Creating new data from the given data
+   - Part of Unsupervised Learning
+   - Example - Give 100 images of cat, then draw a new cat
 4. Semi-supervised Learning
 ... Small amount of labeled data along with unlabeled data
 5. Self-supervised Learning
