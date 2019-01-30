@@ -11,7 +11,7 @@ Aritifcial Intelligence > Machine Learning > Deep Learning
 #### What is ML?
 An algorithm that uses data to answer questions. In addition to it, we can also define it as an algorithm which improves its performance as the data grows.
 
-**Book Definition** - A computer program said to learn from experience _E_ with respect to some class of tasks _T_ and performance measure _P_.
+**Book Definition** - A computer program said to learn from experience *E* with respect to some class of tasks *T* and performance measure *P*.
 
 Task - T                            (Recognizing Spam)
 Experience - E                      (Data - Emails and label them as Spam or not spam)
