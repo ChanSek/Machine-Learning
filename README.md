@@ -65,6 +65,6 @@ Outputs - Rules
 
 ### Scalars, Vectors, Matrics, Tensors
 **Scalar** - 0<sup>th</sup> order tensor
-  - Example - n = 3
+  - Example - n = 3  
 **Vectors** - 1<sup>st</sup> order tensor
-  - Example - xU+20D7 = [1, 2, 3, 4]
+  - Example - x&#8407 = [1, 2, 3, 4]
